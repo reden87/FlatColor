@@ -14,6 +14,7 @@
 		EFAFD7BD1CFF191E00A5B25E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EFAFD7BB1CFF191E00A5B25E /* LaunchScreen.storyboard */; };
 		EFAFD7C81CFF191E00A5B25E /* MaterialColorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFAFD7C71CFF191E00A5B25E /* MaterialColorTests.swift */; };
 		EFAFD7D31CFF191E00A5B25E /* MaterialColorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFAFD7D21CFF191E00A5B25E /* MaterialColorUITests.swift */; };
+		EFAFD7E11CFF192D00A5B25E /* MaterialColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFAFD7E01CFF192D00A5B25E /* MaterialColor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		EFAFD7CE1CFF191E00A5B25E /* MaterialColorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MaterialColorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EFAFD7D21CFF191E00A5B25E /* MaterialColorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaterialColorUITests.swift; sourceTree = "<group>"; };
 		EFAFD7D41CFF191E00A5B25E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EFAFD7E01CFF192D00A5B25E /* MaterialColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MaterialColor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		EFAFD7B11CFF191E00A5B25E /* MaterialColor */ = {
 			isa = PBXGroup;
 			children = (
+				EFAFD7E01CFF192D00A5B25E /* MaterialColor.swift */,
 				EFAFD7B21CFF191E00A5B25E /* AppDelegate.swift */,
 				EFAFD7B41CFF191E00A5B25E /* ViewController.swift */,
 				EFAFD7B61CFF191E00A5B25E /* Main.storyboard */,
@@ -256,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EFAFD7E11CFF192D00A5B25E /* MaterialColor.swift in Sources */,
 				EFAFD7B51CFF191E00A5B25E /* ViewController.swift in Sources */,
 				EFAFD7B31CFF191E00A5B25E /* AppDelegate.swift in Sources */,
 			);
