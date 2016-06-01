@@ -8,3 +8,5 @@ Material Flat Color
           UIColor.flatOranceColor()
           UIColor.flatSilverColor()
           UIColor.flatAlizarinColor()
+          UIColor.flatAlizarinColor()
+          UIColor.flatAlizarinColor()
