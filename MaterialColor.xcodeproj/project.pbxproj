@@ -15,6 +15,7 @@
 		EFAFD7C81CFF191E00A5B25E /* MaterialColorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFAFD7C71CFF191E00A5B25E /* MaterialColorTests.swift */; };
 		EFAFD7D31CFF191E00A5B25E /* MaterialColorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFAFD7D21CFF191E00A5B25E /* MaterialColorUITests.swift */; };
 		EFAFD7E11CFF192D00A5B25E /* MaterialColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFAFD7E01CFF192D00A5B25E /* MaterialColor.swift */; };
+		EFAFD7E41CFF221900A5B25E /* konkurranse.png in Resources */ = {isa = PBXBuildFile; fileRef = EFAFD7E31CFF221900A5B25E /* konkurranse.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		EFAFD7D21CFF191E00A5B25E /* MaterialColorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaterialColorUITests.swift; sourceTree = "<group>"; };
 		EFAFD7D41CFF191E00A5B25E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EFAFD7E01CFF192D00A5B25E /* MaterialColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MaterialColor.swift; sourceTree = "<group>"; };
+		EFAFD7E31CFF221900A5B25E /* konkurranse.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = konkurranse.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		EFAFD7B11CFF191E00A5B25E /* MaterialColor */ = {
 			isa = PBXGroup;
 			children = (
+				EFAFD7E31CFF221900A5B25E /* konkurranse.png */,
 				EFAFD7E01CFF192D00A5B25E /* MaterialColor.swift */,
 				EFAFD7B21CFF191E00A5B25E /* AppDelegate.swift */,
 				EFAFD7B41CFF191E00A5B25E /* ViewController.swift */,
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EFAFD7BD1CFF191E00A5B25E /* LaunchScreen.storyboard in Resources */,
+				EFAFD7E41CFF221900A5B25E /* konkurranse.png in Resources */,
 				EFAFD7BA1CFF191E00A5B25E /* Assets.xcassets in Resources */,
 				EFAFD7B81CFF191E00A5B25E /* Main.storyboard in Resources */,
 			);
@@ -488,6 +492,7 @@
 				EFAFD7D91CFF191E00A5B25E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EFAFD7DA1CFF191E00A5B25E /* Build configuration list for PBXNativeTarget "MaterialColorTests" */ = {
 			isa = XCConfigurationList;
@@ -496,6 +501,7 @@
 				EFAFD7DC1CFF191E00A5B25E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EFAFD7DD1CFF191E00A5B25E /* Build configuration list for PBXNativeTarget "MaterialColorUITests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +510,7 @@
 				EFAFD7DF1CFF191E00A5B25E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
