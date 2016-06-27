@@ -1,6 +1,8 @@
 # MaterialColor
 Material Flat Color
 
+![MaterialColor] (https://github.com/OO-E/MaterialColor/blob/master/colorImage.png)
+
 
 
 
@@ -25,5 +27,8 @@ Material Flat Color
           UIColor.flatMidnighBlueColor()
           UIColor.flatConcrateColor()
           
+          
+
+
           
           
