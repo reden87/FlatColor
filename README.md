@@ -2,7 +2,6 @@
 Material Flat Color
 
 
-          https://flatuicolors.com/
 
 
           UIColor.flatTurquoiseColor()
@@ -25,3 +24,6 @@ Material Flat Color
           UIColor.flatWetasphaltColor()
           UIColor.flatMidnighBlueColor()
           UIColor.flatConcrateColor()
+          
+          
+          
