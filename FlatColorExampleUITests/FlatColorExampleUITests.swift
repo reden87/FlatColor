@@ -1,14 +1,14 @@
 //
-//  MaterialColorUITests.swift
-//  MaterialColorUITests
+//  FlatColorExampleUITests.swift
+//  FlatColorExampleUITests
 //
-//  Created by ozgun Mac on 1.06.2016.
-//  Copyright © 2016 ooe. All rights reserved.
+//  Created by OOE on 1.07.2016.
+//  Copyright © 2016 OO-E. All rights reserved.
 //
 
 import XCTest
 
-class MaterialColorUITests: XCTestCase {
+class FlatColorExampleUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()

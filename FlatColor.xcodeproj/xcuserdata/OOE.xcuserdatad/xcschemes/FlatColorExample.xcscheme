@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "EFAFD7AE1CFF191E00A5B25E"
-               BuildableName = "MaterialColor.app"
-               BlueprintName = "MaterialColor"
-               ReferencedContainer = "container:MaterialColor.xcodeproj">
+               BlueprintIdentifier = "DFE5017E1D26846900E74C41"
+               BuildableName = "FlatColorExample.app"
+               BlueprintName = "FlatColorExample"
+               ReferencedContainer = "container:FlatColor.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "EFAFD7C21CFF191E00A5B25E"
-               BuildableName = "MaterialColorTests.xctest"
-               BlueprintName = "MaterialColorTests"
-               ReferencedContainer = "container:MaterialColor.xcodeproj">
+               BlueprintIdentifier = "DFE501911D26846A00E74C41"
+               BuildableName = "FlatColorExampleTests.xctest"
+               BlueprintName = "FlatColorExampleTests"
+               ReferencedContainer = "container:FlatColor.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "EFAFD7CD1CFF191E00A5B25E"
-               BuildableName = "MaterialColorUITests.xctest"
-               BlueprintName = "MaterialColorUITests"
-               ReferencedContainer = "container:MaterialColor.xcodeproj">
+               BlueprintIdentifier = "DFE5019C1D26846A00E74C41"
+               BuildableName = "FlatColorExampleUITests.xctest"
+               BlueprintName = "FlatColorExampleUITests"
+               ReferencedContainer = "container:FlatColor.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "EFAFD7AE1CFF191E00A5B25E"
-            BuildableName = "MaterialColor.app"
-            BlueprintName = "MaterialColor"
-            ReferencedContainer = "container:MaterialColor.xcodeproj">
+            BlueprintIdentifier = "DFE5017E1D26846900E74C41"
+            BuildableName = "FlatColorExample.app"
+            BlueprintName = "FlatColorExample"
+            ReferencedContainer = "container:FlatColor.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "EFAFD7AE1CFF191E00A5B25E"
-            BuildableName = "MaterialColor.app"
-            BlueprintName = "MaterialColor"
-            ReferencedContainer = "container:MaterialColor.xcodeproj">
+            BlueprintIdentifier = "DFE5017E1D26846900E74C41"
+            BuildableName = "FlatColorExample.app"
+            BlueprintName = "FlatColorExample"
+            ReferencedContainer = "container:FlatColor.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "EFAFD7AE1CFF191E00A5B25E"
-            BuildableName = "MaterialColor.app"
-            BlueprintName = "MaterialColor"
-            ReferencedContainer = "container:MaterialColor.xcodeproj">
+            BlueprintIdentifier = "DFE5017E1D26846900E74C41"
+            BuildableName = "FlatColorExample.app"
+            BlueprintName = "FlatColorExample"
+            ReferencedContainer = "container:FlatColor.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

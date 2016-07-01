@@ -1,21 +1,21 @@
 //
 //  ViewController.swift
-//  MaterialColor
+//  FlatColorExample
 //
-//  Created by ozgun Mac on 1.06.2016.
-//  Copyright © 2016 ooe. All rights reserved.
+//  Created by OOE on 1.07.2016.
+//  Copyright © 2016 OO-E. All rights reserved.
 //
 
 import UIKit
+import FlatColor
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
-        self.view.backgroundColor = UIColor.flatAlizarinColor()
-        
         // Do any additional setup after loading the view, typically from a nib.
+
+        self.view.backgroundColor = UIColor.flatAmethystColor()
     }
 
     override func didReceiveMemoryWarning() {

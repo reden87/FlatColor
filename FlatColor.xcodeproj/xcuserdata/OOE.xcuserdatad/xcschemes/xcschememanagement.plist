@@ -4,25 +4,40 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>MaterialColor.xcscheme</key>
+		<key>FlatColor.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>FlatColorExample.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>EFAFD7AE1CFF191E00A5B25E</key>
+		<key>DFE5015E1D26844200E74C41</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>EFAFD7C21CFF191E00A5B25E</key>
+		<key>DFE501681D26844200E74C41</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>EFAFD7CD1CFF191E00A5B25E</key>
+		<key>DFE5017E1D26846900E74C41</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DFE501911D26846A00E74C41</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DFE5019C1D26846A00E74C41</key>
 		<dict>
 			<key>primary</key>
 			<true/>

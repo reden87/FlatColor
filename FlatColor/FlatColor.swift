@@ -8,10 +8,7 @@
 
 import UIKit
 
-
-
-
-extension UIColor{
+public extension UIColor{
     //Flat Material Color
     class func flatTurquoiseColor()->UIColor{
         return hexColor(0x1abc9c)
