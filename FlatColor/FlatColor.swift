@@ -72,7 +72,7 @@ public extension UIColor{
     }
 
     //:MARK:- Hex Color
-   class func hexColor(rgbValue: UInt) -> UIColor {
+   class func hexColor(_ rgbValue: UInt) -> UIColor {
         return UIColor(
             red: CGFloat((rgbValue & 0xFF0000) >> 16) / 255.0,
             green: CGFloat((rgbValue & 0x00FF00) >> 8) / 255.0,
@@ -80,7 +80,8 @@ public extension UIColor{
             alpha: 1.0
         )
     }
-   class func hexColor(rgbValue: UInt,alpha:CGFloat) -> UIColor {
+
+    class func hexColor(_ rgbValue: UInt, alpha:CGFloat) -> UIColor {
         return UIColor(
             red: CGFloat((rgbValue & 0xFF0000) >> 16) / 255.0,
             green: CGFloat((rgbValue & 0x00FF00) >> 8) / 255.0,
